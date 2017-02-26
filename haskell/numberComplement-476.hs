@@ -1,3 +1,3 @@
-import Data.Bits (complement)
-
+import Data.Bits (xor)
+import Utils (binaryStringToInt)
 

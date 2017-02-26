@@ -1,5 +1,3 @@
-module HammingWeight where
-
 import Utils (intToBinaryString)
 
 
